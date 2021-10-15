@@ -11,11 +11,7 @@
 </p>
 
 <p align="center">
-	2021/07/22 Vela 编译完成
-</p>
-
-<p align="center">
-	<a href="https://imgtu.com/i/Ww62fe"><img src="https://z3.ax1x.com/2021/07/22/Ww62fe.png" alt="Vela" border="0" /></a>
+	2021/10/15 mido 编译完成
 </p>
 
 
